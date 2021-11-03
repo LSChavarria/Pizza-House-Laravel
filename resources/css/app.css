@@ -1,0 +1,10 @@
+h1 {
+	margin:2%;
+	width:50%;
+	padding:10px;
+	border:10px solid #FF4000;
+	border-radius:5px;
+	color:red;
+	font-family:Berlin Sans FB;
+	Font-style: italic;
+}
